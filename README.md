@@ -1,5 +1,5 @@
 # Whale-Talk
-LEARN JAVASCRIPT
+LEARN JAVASCRIPT - LOOPS
 Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
 
 1.  There are a few simple rules for translating text to whale language:
