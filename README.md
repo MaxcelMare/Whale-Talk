@@ -1,0 +1,2 @@
+# Whale-Talk
+LEARN JAVASCRIPT
